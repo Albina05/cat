@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cats</string>
+    <string name="misha">Misha</string>
+    <string name="funny_and_cute_puss">Funny and cute puss</string>
+    <string name="sasha">Sasha</string>
+    <string name="masha">Masha</string>
+    <string name="details">DETAILS</string>
+    <string name="little_red_brawler">Little red brawler</string>
+    <string name="playful_and_sweet_kitty">Playful and sweet kitty</string>
+</resources>
